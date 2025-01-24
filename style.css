@@ -1,0 +1,159 @@
+header {
+    background-image:linear-gradient(#4E4E4E, #000000) ;
+    border: 5px inset black;
+    
+
+}
+
+.logo {
+      border: 3px inset #4E4E4E;
+}
+
+.pov{
+    text-decoration: none;
+   font-size: 25px;
+   color: #440180;
+   border: 3px inset #4E4E4E;
+     
+      margin: 5px;
+}
+
+.new {
+    text-align: center;
+}
+
+
+
+.ine {
+    border : 5px inset #4E4E4E;
+}
+
+
+.us {
+       
+          display: flex;
+}
+
+.last {
+    width: 500px;
+   margin:  20px;
+}
+
+.stu {
+    border-radius: 21px;
+}
+
+.st {
+    border-radius: 21px;
+}
+
+.sto {
+    border-radius: 21px;
+}
+
+
+.rai {
+    font-size: 24px;
+}
+
+
+
+.dis {
+    display: inline-block;
+    font-size: 18px;
+}
+
+.four{
+       text-align: center;
+}
+
+.navi {
+      border: 3px groove #9F00E0;
+}
+
+
+
+.log {
+       border: 3px inset #4E4E4E;
+           display: inline-block;
+}
+
+.fot {
+           display: inline-block;
+         margin: 20px;
+}
+
+
+
+
+
+.text {
+
+     border-top: 3px double #282828;
+}
+
+.zina {
+       text-decoration: none;
+   font-size: 20px;
+  
+   display: inline-block;
+  
+}
+
+.coh {
+    background-color: #A37AE1;
+    color: #440180;
+    
+       border: 3px groove #9F00E0;
+}
+
+.im {
+     border-radius: 21px;
+       display: inline-block;
+    font-size: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+       border: 3px groove #9F00E0;
+}
+
+.first {
+        display: inline-block;
+    font-size: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Ua {
+        display: inline-block;
+    font-size: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}
+
+.Uas {
+          display: inline-block;
+    font-size: 25px;
+    margin-left: 5px;
+    background-color: #440180;
+     border: 3px groove #18081f;
+     color: whitesmoke;
+   
+}
+
+.hehe {
+      position: absolute;
+    left: 500px;
+     border: 3px groove #9F00E0;
+      border-radius: 21px;
+}
+
+.by {
+    color: #3B93E0;
+     background-color: #090014;
+    
+}
+
+
+
+
